@@ -10,7 +10,4 @@
 :icons: font
 :keywords: school meteor
 
----
-****
-
-****
+Welcome to the new SCHOOL product documentation site.
